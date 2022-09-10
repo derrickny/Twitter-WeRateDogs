@@ -9,7 +9,7 @@
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
 
-![Jupyter notebook example](docs/resources/running_code_med.png 'Jupyter notebook example')
+https://raw.githubusercontent.com/jupyter/notebook/main/docs/resources/running_code_med.png
 
 ## Maintained versions
 
